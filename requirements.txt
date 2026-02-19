@@ -1,0 +1,21 @@
+streamlit
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+gtts
+sentence-transformers
+torch
+groq>=0.5.0
+PyMuPDF>=1.23.0   # ← this line is critical
+beautifulsoup4
+lxml
+
+
+
+
+
+
+
